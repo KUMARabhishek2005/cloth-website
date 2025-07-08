@@ -1,4 +1,4 @@
-# 👗 Cloth Website – A Fashion Landing Page
+# 👕 Cloth Website – A Fashion Landing Page
 
 The **Cloth Website** is a fully responsive and elegant frontend project built with **HTML**, **CSS**, and **JavaScript**. It showcases the layout of a modern fashion brand or online clothing store.
 

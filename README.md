@@ -27,8 +27,6 @@ It can be reused for:
 
 ## 📷 Interface Screenshot
 
-> ⚠️ Upload `interface.png` or any screenshot and update this line
-
 ![Website Screenshot](interface.png)
 
 ---
